@@ -5,6 +5,13 @@ fun main() {
 //proyecto_ProgramacionMovil_EAMR
     //Eduardo Agustin Morales Rojas
     //holiwi
+
+
+
+
+
+
+
     println("Cantidad de valores")
     var n: Int = readln().toInt()
     for (i in 1..n) {
